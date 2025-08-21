@@ -65,7 +65,7 @@
 </body>
 </html>
 <link rel="stylesheet" href="style.css">
-/* General Styles */
+</body>style.css/* General Styles */
 body {
     font-family: Arial, sans-serif;
     margin: 0;
